@@ -1,0 +1,98 @@
+[
+{
+"TCPOFOQueue": 15633,
+"TCPHPHits": 2439,
+"TCPOFODrop": 0,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 20301,
+"TCPHPHits": 10502,
+"TCPOFODrop": 0,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 15932,
+"TCPHPHits": 10676,
+"TCPOFODrop": 0,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 45427,
+"TCPHPHits": 5070,
+"TCPOFODrop": 0,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 40734,
+"TCPHPHits": 10224,
+"TCPOFODrop": 0,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 43816,
+"TCPHPHits": 11630,
+"TCPOFODrop": 0,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"TCPOFOQueue": 16195,
+"TCPHPHits": 2400,
+"TCPOFODrop": 0,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"TCPOFOQueue": 21041,
+"TCPHPHits": 10677,
+"TCPOFODrop": 0,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"TCPOFOQueue": 17382,
+"TCPHPHits": 11441,
+"TCPOFODrop": 0,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"TCPOFOQueue": 40866,
+"TCPHPHits": 5381,
+"TCPOFODrop": 0,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"TCPOFOQueue": 41865,
+"TCPHPHits": 8810,
+"TCPOFODrop": 0,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"TCPOFOQueue": 43713,
+"TCPHPHits": 11361,
+"TCPOFODrop": 0,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+}
+]

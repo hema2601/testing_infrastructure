@@ -1,0 +1,1952 @@
+[
+{
+"bps": 35161877704.39412,
+"t": 1.001104,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41218044518.29926,
+"t": 2.001089,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 37387615816.497,
+"t": 3.0011,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 37987924540.8374,
+"t": 4.001097,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39031260770.221664,
+"t": 5.001094,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 36267242945.6409,
+"t": 6.00109,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39556127364.661964,
+"t": 7.001099,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 37286016179.75357,
+"t": 8.001107,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 38365376437.65756,
+"t": 9.001105,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 36509427974.57427,
+"t": 10.001102,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39125969650.5303,
+"t": 10.001504,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 38415817695.193985,
+"t": 1.001005,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41865737336.911064,
+"t": 2.000998,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 42980956033.20608,
+"t": 3.001002,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 40751145017.7881,
+"t": 4.000968,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41022001128.138535,
+"t": 5.001003,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41875420614.30573,
+"t": 6.00089,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41364943936.6668,
+"t": 7.000974,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 41596834080.31074,
+"t": 8.000953,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 40338396536.32329,
+"t": 9.000961,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 43205484300.0393,
+"t": 10.000962,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 24061526036.128517,
+"t": 10.00179,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 36624476765.04448,
+"t": 1.001093,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39077281792,
+"t": 2.001093,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 35687129228.06696,
+"t": 3.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 37779295576.04,
+"t": 4.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 38335902000.03487,
+"t": 5.001093,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39170567700.03562,
+"t": 6.001094,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 40985651025.03728,
+"t": 7.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 38624375234.53363,
+"t": 8.001093,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 35855044075.16181,
+"t": 9.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 39655935013.90146,
+"t": 10.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 16109408260.92754,
+"t": 10.001812,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"bps": 22524555701.9654,
+"t": 1.00102,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25437189627.469307,
+"t": 1.001039,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 21750634007.45983,
+"t": 2.001019,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 26966309357.86451,
+"t": 2.001036,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 21129425002.462765,
+"t": 3.001089,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 28315747270.428455,
+"t": 3.00111,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24248677733.809387,
+"t": 4.001031,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24482450776.162548,
+"t": 4.001055,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 20928570796.960953,
+"t": 5.001029,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 27355669881.355453,
+"t": 5.001078,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 20216504310.083027,
+"t": 6.001031,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 28036236864.341423,
+"t": 6.001099,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 19361955840,
+"t": 7.001031,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 28949399066.213116,
+"t": 7.001052,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 21288211522.89686,
+"t": 8.00103,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 26793213952,
+"t": 8.001052,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 21321510545.564568,
+"t": 9.001041,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 27319380903.49277,
+"t": 9.00106,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 20168291550.01834,
+"t": 10.001042,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 28507514461.650017,
+"t": 10.001285,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23779801093.1802,
+"t": 10.001968,
+"Socket": 5,
+"NAPI_ID": 8289,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 13235881894.23708,
+"t": 10.001998,
+"Socket": 8,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23003266670.472042,
+"t": 1.00102,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23385696424.917465,
+"t": 1.001061,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25108303473.722454,
+"t": 2.001014,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23205891479.01257,
+"t": 2.001022,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25540089516.60184,
+"t": 3.001017,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23445737322.596928,
+"t": 3.00104,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24824150013.8864,
+"t": 4.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24245634302.146893,
+"t": 4.001194,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 27425696539.7713,
+"t": 5.001088,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 21648707520.5579,
+"t": 5.001106,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23999807488,
+"t": 6.001088,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25195160100.022915,
+"t": 6.001107,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25806322431.15159,
+"t": 7.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 22983752986.422,
+"t": 7.001152,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25462672693.468582,
+"t": 8.001091,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23045568485.71735,
+"t": 8.001108,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25807629424.729218,
+"t": 9.001088,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 22379466773.40353,
+"t": 9.001121,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25031281020.22626,
+"t": 10.001101,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24281996006.8587,
+"t": 10.001116,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 16996867935.9807,
+"t": 10.001903,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 32686284492.27058,
+"t": 10.001918,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23581504444.379032,
+"t": 1.00013,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23357904432.146572,
+"t": 1.000187,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25998558628.13453,
+"t": 2.000164,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23279528743.058765,
+"t": 2.000183,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23525649511.741283,
+"t": 3.000128,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24924525512.4609,
+"t": 3.000146,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23470254225.021347,
+"t": 4.000129,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23699488146.92915,
+"t": 4.000164,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 20237516800,
+"t": 5.000129,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 28029989612.707325,
+"t": 5.000146,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25605253653.60242,
+"t": 6.000126,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 22032661733.14854,
+"t": 6.000242,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23427237515.346214,
+"t": 7.000128,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24244908371.9162,
+"t": 7.000253,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24371003392,
+"t": 8.000128,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 24452186153.538666,
+"t": 8.000192,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25524462855.401207,
+"t": 9.000127,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 22494061628.18624,
+"t": 9.000145,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 23264872429.324966,
+"t": 10.000167,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 25635938553.591946,
+"t": 10.000254,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 26554044644.237907,
+"t": 10.001865,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 22364508914.705933,
+"t": 10.001895,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"bps": 36774680053.807,
+"t": 1.000939,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 36507770376.23657,
+"t": 2.000924,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38154510777.08169,
+"t": 3.001062,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39349402061.61638,
+"t": 4.000995,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39010749384.903885,
+"t": 5.001034,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 36339523500.14925,
+"t": 6.001032,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 34928940254.1256,
+"t": 7.001037,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 36452769937.64971,
+"t": 8.001035,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38859839075.31945,
+"t": 9.001072,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39255052331.01348,
+"t": 10.001031,
+"Socket": 5,
+"NAPI_ID": 8291,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 41525005621.34614,
+"t": 1.001128,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 42422833452.5108,
+"t": 2.001114,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 43419129626.14786,
+"t": 3.001121,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 41012913975.0373,
+"t": 4.001122,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 42275693094.59462,
+"t": 5.001116,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39736026733.62759,
+"t": 6.00111,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 41114870813.53066,
+"t": 7.001105,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 36248704959.3193,
+"t": 8.000976,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39983227468.91382,
+"t": 9.001134,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 41265602555.49745,
+"t": 10.00111,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38339401959.03899,
+"t": 1.001113,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39879389817.686,
+"t": 2.001088,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 40815533730.144066,
+"t": 3.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39172818952.09792,
+"t": 4.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 37977212387.0873,
+"t": 5.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 39527120896,
+"t": 6.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38714396039.034,
+"t": 7.001097,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 37897785137.2294,
+"t": 8.001093,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38661930474.46838,
+"t": 9.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 38586587322.97712,
+"t": 10.001095,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 1,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"bps": 23284743962.791447,
+"t": 1.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25214644820.429047,
+"t": 1.001058,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22462661314.59713,
+"t": 2.00089,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24587478311.827785,
+"t": 2.000911,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23423578267.264866,
+"t": 3.001093,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24712752163.839394,
+"t": 3.001254,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22468137955.819294,
+"t": 4.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25629202845.06007,
+"t": 4.001053,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23416799232,
+"t": 5.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25484653254.47995,
+"t": 5.001174,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22905117353.273518,
+"t": 6.001032,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24301542823.7157,
+"t": 6.001055,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26272071680,
+"t": 7.001032,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21876506285.0693,
+"t": 7.001052,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22192783911.278328,
+"t": 8.001094,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26119179076.6135,
+"t": 8.001205,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22436791130.629078,
+"t": 9.001029,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26545696451.894783,
+"t": 9.001049,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22643998720,
+"t": 10.001029,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25269772912.50084,
+"t": 10.001251,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 11708664642.301865,
+"t": 10.001835,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 18908747905.88888,
+"t": 10.001861,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23528375348.4374,
+"t": 1.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23880499801.662663,
+"t": 1.001132,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21942654398.44214,
+"t": 2.001089,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 27331843729.708744,
+"t": 2.001106,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23247956325.021145,
+"t": 3.00109,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24698342064.0877,
+"t": 3.001141,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22427722031.126232,
+"t": 4.001102,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 27465955257.34891,
+"t": 4.001119,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24869102191.338036,
+"t": 5.001101,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23108564718.844906,
+"t": 5.001117,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25151092965.8533,
+"t": 6.001103,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24333205343.349934,
+"t": 6.001119,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25274003582.416653,
+"t": 7.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23297075493.73618,
+"t": 7.001127,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24635539690.91102,
+"t": 8.001084,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25416019836.47743,
+"t": 8.001102,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26427049854.56085,
+"t": 9.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22940149567.992783,
+"t": 9.001128,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26629636096,
+"t": 10.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22476631152.907917,
+"t": 10.00111,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 27354155914.75663,
+"t": 10.001782,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 18027094090.495216,
+"t": 10.001808,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 25380034189.491825,
+"t": 1.001021,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22204759504.628113,
+"t": 1.001081,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24497092807.232376,
+"t": 2.001096,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24725704297.252842,
+"t": 2.001112,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26550674522.9204,
+"t": 3.001029,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21762141913.414333,
+"t": 3.001064,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 23500990679.467888,
+"t": 4.001016,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24573214649.34902,
+"t": 4.001028,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24880636539.025547,
+"t": 5.001015,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24539897262.592957,
+"t": 5.001025,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24102808949.93971,
+"t": 6.001092,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 22885345009.267628,
+"t": 6.001109,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 24516398701.86183,
+"t": 7.001021,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21959766669.403633,
+"t": 7.001039,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 20547217031.50308,
+"t": 8.001105,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26380167332.875225,
+"t": 8.001433,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26449359849.234917,
+"t": 9.001102,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21864454253.708267,
+"t": 9.001118,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 27064098225.81948,
+"t": 10.001089,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 21615584016.003273,
+"t": 10.001107,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 11004545482.948069,
+"t": 10.001756,
+"Socket": 5,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"bps": 26846072614.337837,
+"t": 10.001771,
+"Socket": 8,
+"NAPI_ID": 8293,
+"ConnPerCore": 2,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+}
+]

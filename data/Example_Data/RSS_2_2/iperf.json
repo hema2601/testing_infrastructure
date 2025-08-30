@@ -1,0 +1,156 @@
+[
+{
+"bps": 23284743962.791447,
+"t": 1.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 25214644820.429047,
+"t": 1.001058,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22462661314.59713,
+"t": 2.00089,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 24587478311.827785,
+"t": 2.000911,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 23423578267.264866,
+"t": 3.001093,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 24712752163.839394,
+"t": 3.001254,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22468137955.819294,
+"t": 4.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 25629202845.06007,
+"t": 4.001053,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 23416799232,
+"t": 5.001033,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 25484653254.47995,
+"t": 5.001174,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22905117353.273518,
+"t": 6.001032,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 24301542823.7157,
+"t": 6.001055,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 26272071680,
+"t": 7.001032,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 21876506285.0693,
+"t": 7.001052,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22192783911.278328,
+"t": 8.001094,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 26119179076.6135,
+"t": 8.001205,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22436791130.629078,
+"t": 9.001029,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 26545696451.894783,
+"t": 9.001049,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 22643998720,
+"t": 10.001029,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 25269772912.50084,
+"t": 10.001251,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+},
+{
+"bps": 11708664642.301865,
+"t": 10.001835,
+"Socket": 5,
+"NAPI_ID": 8290,
+"ConnPerCore": 1
+},
+{
+"bps": 18908747905.88888,
+"t": 10.001861,
+"Socket": 8,
+"NAPI_ID": 8292,
+"ConnPerCore": 1
+}
+]

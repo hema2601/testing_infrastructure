@@ -1,0 +1,402 @@
+[
+{
+"Type": "IRQ",
+"cycles": 33604929861,
+"instructions": 53944044399,
+"LLC-loads": 27725652,
+"LLC-load-misses": 149393,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 33153793787,
+"instructions": 18188099645,
+"LLC-loads": 726033696,
+"LLC-load-misses": 5722498,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 64473688060,
+"instructions": 69315606864,
+"LLC-loads": 738004394,
+"LLC-load-misses": 6194404,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 31809554732,
+"instructions": 52106606945,
+"LLC-loads": 19800004,
+"LLC-load-misses": 48424,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "PP",
+"cycles": 6273466347,
+"instructions": 8357972546,
+"LLC-loads": 15796586,
+"LLC-load-misses": 151274,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 35737844612,
+"instructions": 17202322954,
+"LLC-loads": 814692870,
+"LLC-load-misses": 7084843,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 71001224081,
+"instructions": 74155601059,
+"LLC-loads": 822918747,
+"LLC-load-misses": 7358086,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 29341705315,
+"instructions": 48866396574,
+"LLC-loads": 17507899,
+"LLC-load-misses": 61553,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 35128533295,
+"instructions": 22464382970,
+"LLC-loads": 732472127,
+"LLC-load-misses": 12645061,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 62380595940,
+"instructions": 69275139202,
+"LLC-loads": 734166880,
+"LLC-load-misses": 10321869,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 42582553153,
+"instructions": 71558997616,
+"LLC-loads": 38246098,
+"LLC-load-misses": 599431,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 36961940593,
+"instructions": 26137828230,
+"LLC-loads": 861396532,
+"LLC-load-misses": 15722285,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 77147431526,
+"instructions": 93481088926,
+"LLC-loads": 882474874,
+"LLC-load-misses": 15477454,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 37773202801,
+"instructions": 60719389187,
+"LLC-loads": 23813142,
+"LLC-load-misses": 33815,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "PP",
+"cycles": 8469777127,
+"instructions": 11737842614,
+"LLC-loads": 29092665,
+"LLC-load-misses": 34749,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 43777798913,
+"instructions": 27237710998,
+"LLC-loads": 917306778,
+"LLC-load-misses": 4879647,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 87052899509,
+"instructions": 95778998812,
+"LLC-loads": 954883738,
+"LLC-load-misses": 5370230,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 37934359939,
+"instructions": 61039007425,
+"LLC-loads": 26340192,
+"LLC-load-misses": 50228,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "APP",
+"cycles": 52496508046,
+"instructions": 39397869951,
+"LLC-loads": 923292895,
+"LLC-load-misses": 6168168,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "FULL",
+"cycles": 88018469866,
+"instructions": 97064630096,
+"LLC-loads": 928112432,
+"LLC-load-misses": 5641607,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "1"
+},
+{
+"Type": "IRQ",
+"cycles": 32835371659,
+"instructions": 54382737532,
+"LLC-loads": 25308300,
+"LLC-load-misses": 139314,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 31419254150,
+"instructions": 18059937191,
+"LLC-loads": 731757760,
+"LLC-load-misses": 5795814,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 62393330854,
+"instructions": 69281508439,
+"LLC-loads": 717338765,
+"LLC-load-misses": 5707351,
+"Exp": "RSS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "IRQ",
+"cycles": 31818614998,
+"instructions": 51828301418,
+"LLC-loads": 19481354,
+"LLC-load-misses": 45420,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "PP",
+"cycles": 6299561995,
+"instructions": 8393544302,
+"LLC-loads": 15980172,
+"LLC-load-misses": 65848,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 35438394247,
+"instructions": 16857163266,
+"LLC-loads": 799380206,
+"LLC-load-misses": 7998876,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 71140775131,
+"instructions": 74133543489,
+"LLC-loads": 837237829,
+"LLC-load-misses": 7613714,
+"Exp": "RPS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "IRQ",
+"cycles": 29996204968,
+"instructions": 49482148187,
+"LLC-loads": 17696419,
+"LLC-load-misses": 53370,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 34474564199,
+"instructions": 22815614619,
+"LLC-loads": 737559465,
+"LLC-load-misses": 8772049,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 63585972676,
+"instructions": 70191247773,
+"LLC-loads": 745516071,
+"LLC-load-misses": 8149442,
+"Exp": "RFS",
+"Conns": "1",
+"Rep": "2"
+},
+{
+"Type": "IRQ",
+"cycles": 41187398916,
+"instructions": 70418231398,
+"LLC-loads": 35516012,
+"LLC-load-misses": 556830,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 34208720882,
+"instructions": 25242879150,
+"LLC-loads": 828405826,
+"LLC-load-misses": 13609919,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 72459677891,
+"instructions": 91588262002,
+"LLC-loads": 839828317,
+"LLC-load-misses": 13756210,
+"Exp": "RSS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "IRQ",
+"cycles": 38459121157,
+"instructions": 61748389506,
+"LLC-loads": 26443571,
+"LLC-load-misses": 35978,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "PP",
+"cycles": 11549618998,
+"instructions": 13805956065,
+"LLC-loads": 33767448,
+"LLC-load-misses": 221295,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 48304317211,
+"instructions": 29092504854,
+"LLC-loads": 934798199,
+"LLC-load-misses": 5047261,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 94453657945,
+"instructions": 99045430859,
+"LLC-loads": 974079814,
+"LLC-load-misses": 4875333,
+"Exp": "RPS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "IRQ",
+"cycles": 38151283925,
+"instructions": 61447207874,
+"LLC-loads": 26192893,
+"LLC-load-misses": 44850,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "APP",
+"cycles": 51723997379,
+"instructions": 39491932684,
+"LLC-loads": 932009486,
+"LLC-load-misses": 5824459,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+},
+{
+"Type": "FULL",
+"cycles": 88010900856,
+"instructions": 96728930138,
+"LLC-loads": 918832118,
+"LLC-load-misses": 5650211,
+"Exp": "RFS",
+"Conns": "2",
+"Rep": "2"
+}
+]
