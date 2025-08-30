@@ -3,11 +3,11 @@
 # Setup-specific variables
 
 current_path=/home/hema/testing_infrastructure/
-remote_client_addr=hema@115.145.178.17
-server_ip=30.0.0.3
-IPERF_BIN=iperf
+remote_client_addr=user@123.123.123.123
+server_ip=10.0.0.3
+IPERF_BIN=iperf3
 IPERF_CUSTOM_ARGS=""
-PERF_BIN=/home/hema/Custom_Packet_Steering/linux-6.10.8/tools/perf/perf
+PERF_BIN=perf
 
 # Argument List
 

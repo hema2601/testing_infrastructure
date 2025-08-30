@@ -6,16 +6,16 @@
 CURR_PATH=/home/hema/testing_infrastructure/
 
 # How to access your iperf binary
-STANDARD_IPERF_BIN=iperf
+STANDARD_IPERF_BIN=iperf3
 
 # How to access your perf binary
-PERF_BIN=/home/hema/Custom_Packet_Steering/linux-6.10.8/tools/perf/perf
+PERF_BIN=perf
 
 # How to ssh onto your remote node
-REMOTE_SSH=hema@115.145.178.17
+REMOTE_SSH=user@123.123.123.123
 
 # The IP address of this server's target network interface
-SERVER_TARGET_IP=30.0.0.3
+SERVER_TARGET_IP=10.0.0.3
 
 #=====================================================================
 

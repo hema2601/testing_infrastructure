@@ -10,7 +10,7 @@ current_path=/home/hema/testing_infrastructure/
 exponential=0
 
 # Create Meta-Experiment Directory
-name="Main_Baseline2"
+name="Main_Baseline"
 mkdir $current_path/data/$name
 
 # General Setup Parameters that don't change
